@@ -1,0 +1,2 @@
+# probability_distribution_fitting_power_load_profile
+It contains a python (jupyter) implementation solving the problem of fitting a dataset to the optimal probability distribution from a set of probability distributions. The dataset consists of power load profiles and is a small one and intended only for demostration purposes, it contains just a few load profile curves from residential users in Medellín, Colombia. At the end, several load profile curves based on the optimal distribution are generated and an average curve (the centroid) is found along with its load factor.
